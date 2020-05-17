@@ -1,2 +1,2 @@
-# Assignment-1
+# Assignment
 Masters in data science
